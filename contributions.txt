@@ -308,3 +308,4 @@ Commit on 2025-05-30 09:20:00: Code refactoring - 2025-05-30 #3
 Commit on 2025-05-31 08:15:00: Update contributions - 2025-05-31 #1
 Commit on 2025-05-31 11:07:00: Improve documentation - 2025-05-31 #2
 Commit on 2025-06-01 19:07:00: Update dependencies - 2025-06-01 #1
+Commit on 2025-06-01 17:00:00: Update README - 2025-06-01 #2
