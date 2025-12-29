@@ -747,3 +747,4 @@ Commit on 2025-12-28 22:09:00: Code refactoring - 2025-12-28 #1
 Commit on 2025-12-28 21:51:00: Code refactoring - 2025-12-28 #2
 Commit on 2025-12-28 16:02:00: Bug fixes - 2025-12-28 #3
 Commit on 2025-12-28 14:02:00: Bug fixes - 2025-12-28 #4
+Commit on 2025-12-29 15:15:00: Improve documentation - 2025-12-29 #1
